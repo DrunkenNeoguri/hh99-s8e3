@@ -1,6 +1,6 @@
 # 항해 99 8기 3조 실전 프로젝트 - MIMIC!
 
-![mimic.png](https://raw.githubusercontent.com/hanghae99-s8realweek-E3/frontend/main/public/images/architecture.jpg)
+![미믹 온보딩 이미](https://github.com/DrunkenNeoguri/todaysmimic/assets/95408784/3558c02c-cad1-405c-96c0-132b94664c73)
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-### 🏗️ 기술 스택 및 아키쳐
+### 🏗️ 기술 스택 및 아키텍처
 
 - **React**
 - **Redux / Toolkit, thunk**
@@ -51,7 +51,7 @@
 - swiper
 - react-calendar
 
-(이미지)
+![기술 아키텍처](https://github.com/DrunkenNeoguri/todaysmimic/assets/95408784/5ee05131-346f-4582-bd86-8bc44f8bb0e7)
 
 ---
 
