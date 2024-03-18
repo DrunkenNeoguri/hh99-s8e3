@@ -1,10 +1,6 @@
-# GitHub ReadMe
-
----
-
 # 항해 99 8기 3조 실전 프로젝트 - MIMIC!
 
-![mimic.png](https://raw.githubusercontent.com/hanghae99-s8realweek-E3/frontend/main/public/images/ogimage.png)
+![mimic.png](https://raw.githubusercontent.com/hanghae99-s8realweek-E3/frontend/main/public/images/architecture.jpg)
 
 ---
 
